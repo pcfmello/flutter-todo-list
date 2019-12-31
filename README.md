@@ -1,6 +1,20 @@
-# todo_list
+# TODO LIST APP
+A todo list mobile application created by Flutter to training my skills.
 
-A todo list created by Flutter.
+## This app was used:
+* Future Type;
+* Path Provider;
+* Material UI;
+* Text Editing Controller;
+* IO;
+* Async/await;
+* JSON convert;
+* Dismissible;
+* CheckboxListTile;
+* Snackbar;
+
+## Minimum Requisits  
+You must have [Flutter environment installed](https://flutter.dev/docs/get-started/install) 
 
 ## Getting Started
 
@@ -14,3 +28,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+## License
+MIT
